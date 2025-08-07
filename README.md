@@ -9,13 +9,10 @@ This resource is designed for anyone interested in learning more about digital p
 ## Table of Contents
 1. [The Privacy, Security, & OSINT Show](#1-the-privacy-security--osint-show) 
 2. [IAPP's The Privacy Advisor Podcast](#2-iapps-the-privacy-advisor-podcast)
-3. [OptOut Podcast](#3-optout-podcast)
-4. [Surveillance Report](#4-surveillance-report)
-5. [Techlore Talks](#5-techlore-talks)
-6. [The Watchman Privacy Podcast](#6-the-watchman-privacy-podcast)
-7. [NBTV: Your Money, Your Data, Your Life](#7-nbtv-your-money-your-data-your-life) 
-8. [Firewalls Don't Stop Dragons](#8-firewalls-dont-stop-dragons)
-9. [Privacy International Podcast](#9-privacy-international-podcast)
+3. [The Watchman Privacy Podcast](#6-the-watchman-privacy-podcast)
+4. [NBTV: Your Money, Your Data, Your Life](#7-nbtv-your-money-your-data-your-life) 
+5. [Firewalls Don't Stop Dragons](#8-firewalls-dont-stop-dragons)
+6. [Privacy International Podcast](#9-privacy-international-podcast)
 
 ---
 
