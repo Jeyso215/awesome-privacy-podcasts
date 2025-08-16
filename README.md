@@ -12,7 +12,7 @@ This resource is designed for anyone interested in learning more about digital p
 3. [The Watchman Privacy Podcast](#3-the-watchman-privacy-podcast)
 4. [Firewalls Don't Stop Dragons](#4-firewalls-dont-stop-dragons)
 5. [Privacy International Podcast](#5-privacy-international-podcast)
-6. [Darknet Demystified](
+6. [Darknet Demystified](#6-darknet-demystified)
 
 ---
 
